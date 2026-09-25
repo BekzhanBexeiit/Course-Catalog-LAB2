@@ -58,8 +58,8 @@ The goal of Lab 2 was to style an existing course catalog using **Tailwind CSS**
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/beka070/course-catalog-2.git
-cd course-catalog-2
+git clone https://github.com/BekzhanBexeiit/Course-Catalog-LAB2.git
+cd Course-Catalog-LAB2
 
 # 2. Install dependencies
 npm install
